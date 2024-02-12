@@ -4,5 +4,6 @@ This repository was created for the application to the WOC. As a mandatory requi
 We used Devpod to create a new workspace on it.
 Moreover, our provider was docker, as a simple way to deploy a container.
 <center>
-![image](https://github.com/LoiueFragosoUwUr/AdmissiontoWOC/assets/126754704/3d2898a2-7e18-44ed-b8a4-bfd020b88308)
+   <img src="[assets/images/grin-logo.png](https://github.com/LoiueFragosoUwUr/AdmissiontoWOC/assets/126754704/3d2898a2-7e18-44ed-b8a4-bfd020b88308)">
+#![image](https://github.com/LoiueFragosoUwUr/AdmissiontoWOC/assets/126754704/3d2898a2-7e18-44ed-b8a4-bfd020b88308)
 </center>
